@@ -1,5 +1,10 @@
 # RouteWise – Smart Delivery and Route Optimization System
 
+Project Team
+Harisa Ahmed
+Zaib-Un-Nisa
+Maneha Faisal
+
 ## 1. Project Overview
 RouteWise is a C++-based delivery management system designed to manage customers, parcels, delivery priorities, and routes between locations. It uses different data structures and algorithms to organize deliveries efficiently and find optimal routes.
 
